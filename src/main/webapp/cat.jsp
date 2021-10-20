@@ -8,5 +8,6 @@
 </head>
 <body>
 	[cat:first]
+	[cat:second]
 </body>
 </html>
